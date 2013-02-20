@@ -12,4 +12,4 @@ Usage
 * Download the script to your *searchplugins* directory of your Firefox profile folder, and restart firefox
 
 
-
+Tested with Ubuntu 12.10
