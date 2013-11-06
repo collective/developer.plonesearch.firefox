@@ -7,8 +7,7 @@ Introduction
 via your Search Bar through the `Plone Developer Documentation <http://developer.plone.org>`_.
 
 
-.. image:: https://raw.github.com/collective/developer.plonesearch.firefox/blob/master/docs/images/plone-search.png
-
+.. image:: https://raw.github.com/collective/developer.plonesearch.firefox/master/docs/images/plone-search.png
 
 Usage
 =====
