@@ -3,11 +3,11 @@
 
 Introduction
 --------------
-*developer.plonesearch.firefox* is an OpenSearch plugin for `Firefox <http://www.mozilla.org/firefox>`_ to search
+*developer.plonesearch.firefox* is an `OpenSearch <http://www.opensearch.org/Home>`_  plugin for `Firefox <http://www.mozilla.org/firefox>`_ to search
 via your Search Bar through the `Plone Developer Documentation <http://developer.plone.org>`_.
 
 
-![ScreenShot](https://github.com/collective/developer.plonesearch.firefox/blob/master/docs/images/plone-search.png)
+.. image:: https://github.com/collective/developer.plonesearch.firefox/blob/master/docs/images/plone-search.png
 
 
 Usage
